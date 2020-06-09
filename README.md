@@ -1,2 +1,1 @@
-# Resume
-It is very simple personal resume site. I have made it for learning basic html.
+# This is a simple html site for learning purpose.
